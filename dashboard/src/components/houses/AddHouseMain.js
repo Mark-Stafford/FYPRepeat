@@ -96,7 +96,7 @@ const AddHouseMain = () => {
                   </div>
                   <div className="mb-4">
                     <label htmlFor="house_price" className="form-label">
-                      Count In Stock
+                      Count Rooms Available
                     </label>
                     <input
                       type="number"

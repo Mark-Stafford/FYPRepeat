@@ -4,7 +4,7 @@ const houses = [
     name: "3 Bedroom Prague",
     image: "/images/prague.jpeg",
     description:
-      "3 Bedroom Prague, Great location for students 400m from college",
+      "3 Bedroom Prague, Great location for students from college",
     price: 689,
     countInStock: 3,
     rating: 4,
@@ -12,7 +12,7 @@ const houses = [
   },
   {
     _id: "2",
-    name: "Berlin Accomodation",
+    name: "Barcelona Accomodation",
     image: "/images/berlin.jpeg",
     description:
       "City centre right next to tram stop for students sharing ",

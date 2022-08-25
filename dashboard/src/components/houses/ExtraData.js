@@ -16,7 +16,7 @@ const ExtraData = () => {
                 id="house-cat"
               />
               <label className="form-check-label" htmlFor="house-cat">
-                Shirt
+                House
               </label>
             </div>
             <div className="form-check">
@@ -27,7 +27,7 @@ const ExtraData = () => {
                 id="house-cat-1"
               />
               <label className="form-check-label" htmlFor="house-cat-1">
-                T-Shirt
+                Apartment
               </label>
             </div>
             <div className="form-check">
@@ -38,7 +38,7 @@ const ExtraData = () => {
                 id="house-cat-2"
               />
               <label className="form-check-label" htmlFor="house-cat-2">
-                Sneakers
+                Bungalow
               </label>
             </div>
             <div className="form-check">
@@ -49,7 +49,7 @@ const ExtraData = () => {
                 id="house-cat-3"
               />
               <label className="form-check-label" htmlFor="house-cat-3">
-                Joggers
+                Two Story
               </label>
             </div>
             <div className="form-check">
@@ -60,7 +60,7 @@ const ExtraData = () => {
                 id="house-cat-4"
               />
               <label className="form-check-label" htmlFor="house-cat-4">
-                Vests
+                Three Story
               </label>
             </div>
             <div className="form-check">
@@ -71,7 +71,7 @@ const ExtraData = () => {
                 id="house-cat-5"
               />
               <label className="form-check-label" htmlFor="house-cat-5">
-                Knitwear
+                
               </label>
             </div>
             <div className="form-check">
@@ -82,7 +82,7 @@ const ExtraData = () => {
                 id="house-cat-8"
               />
               <label className="form-check-label" htmlFor="house-cat-8">
-                Shorts
+                
               </label>
             </div>
           </>
@@ -97,7 +97,7 @@ const ExtraData = () => {
                 id="house-cat"
               />
               <label className="form-check-label" htmlFor="house-cat">
-                Yellow
+                
               </label>
             </div>
             <div className="form-check">
@@ -108,7 +108,7 @@ const ExtraData = () => {
                 id="house-cat-1"
               />
               <label className="form-check-label" htmlFor="house-cat-1">
-                Green
+                
               </label>
             </div>
             <div className="form-check">
@@ -119,7 +119,7 @@ const ExtraData = () => {
                 id="house-cat-2"
               />
               <label className="form-check-label" htmlFor="house-cat-2">
-                Blue
+                
               </label>
             </div>
           </>
@@ -134,7 +134,7 @@ const ExtraData = () => {
                 id="house-cat"
               />
               <label className="form-check-label" htmlFor="house-cat">
-                SM
+                
               </label>
             </div>
             <div className="form-check">
@@ -145,7 +145,7 @@ const ExtraData = () => {
                 id="house-cat-1"
               />
               <label className="form-check-label" htmlFor="house-cat-1">
-                M
+                
               </label>
             </div>
             <div className="form-check">
@@ -156,7 +156,7 @@ const ExtraData = () => {
                 id="house-cat-2"
               />
               <label className="form-check-label" htmlFor="house-cat-2">
-                XL
+                
               </label>
             </div>
           </>

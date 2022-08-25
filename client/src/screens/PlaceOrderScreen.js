@@ -102,7 +102,7 @@ const PlaceOrderScreen = ({ history }) => {
               </div>
               <div className="col-md-8 center">
                 <h5>
-                  <strong>Deliver to</strong>
+                  <strong>Deliver Receipt to</strong>
                 </h5>
                 <p>
                   Address: {cart.shippingAddress.city},{" "}

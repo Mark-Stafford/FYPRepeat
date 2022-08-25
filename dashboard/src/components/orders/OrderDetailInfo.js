@@ -26,7 +26,7 @@ const OrderDetailInfo = (props) => {
           <div className="text">
             <h6 className="mb-1">Order info</h6>
             <p className="mb-1">
-              Shipping: {order.shippingAddress.country} <br /> Pay method:{" "}
+              Confirmation Shippin Address: {order.shippingAddress.country} <br /> Pay method:{" "}
               {order.paymentMethod}
             </p>
           </div>
@@ -38,7 +38,7 @@ const OrderDetailInfo = (props) => {
             <i className="text-success fas fa-map-marker-alt"></i>
           </span>
           <div className="text">
-            <h6 className="mb-1">Deliver to</h6>
+            <h6 className="mb-1">Deliver Receipt to</h6>
             <p className="mb-1">
               Address: {order.shippingAddress.city}
               <br />

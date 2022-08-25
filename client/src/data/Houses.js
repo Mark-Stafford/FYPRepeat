@@ -4,22 +4,22 @@ const houses = [
     name: "3 Bedroom Prague",
     image: "/images/prague.jpeg",
     description:
-      "3 Bedroom Prague, Great location for students 400m from college",
+      "3 Bedroom Prague, Great location for students from college",
     price: 689,
     countInStock: 3,
     rating: 4,
-    numReviews: 0,
+    numReviews: 4,
   },
   {
     _id: "2",
-    name: "Berlin Accomodation",
+    name: "Barcelona Accomodation",
     image: "/images/berlin.jpeg",
     description:
       "City centre right next to tram stop for students sharing ",
     price: 599,
     countInStock: 8,
     rating: 3,
-    numReviews: 0,
+    numReviews: 2,
   },
   {
     _id: "3",
@@ -30,7 +30,7 @@ const houses = [
     price: 929,
     countInStock: 0,
     rating: 3.5,
-    numReviews: 0,
+    numReviews: 3,
   },
   {
     _id: "4",
@@ -41,7 +41,8 @@ const houses = [
     price: 399,
     countInStock: 10,
     rating: 5,
-    numReviews: 0,
+    numReviews: 9,
+  
   },
   {
     _id: "5",
@@ -52,7 +53,7 @@ const houses = [
     price: 549,
     countInStock: 7,
     rating: 2,
-    numReviews: 0,
+    numReviews: 2,
   },
   {
     _id: "6",

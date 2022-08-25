@@ -21,7 +21,7 @@ const OrderDetailHouses = (props) => {
         <tr>
           <th style={{ width: "40%" }}>House</th>
           <th style={{ width: "20%" }}>Unit Price</th>
-          <th style={{ width: "20%" }}>Quantity</th>
+          <th style={{ width: "20%" }}>Number Of Rooms</th>
           <th style={{ width: "20%" }} className="text-end">
             Total
           </th>

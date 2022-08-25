@@ -2,7 +2,7 @@ import express from "express";
 import User from "./Models/UserModel.js";
 import users from "./data/users.js";
 import House from "./Models/HouseModel.js";
-import houses from "./data/Houses.js";
+import houses from "./data/houses.js";
 import asyncHandler from "express-async-handler";
 
 const ImportData = express.Router();
