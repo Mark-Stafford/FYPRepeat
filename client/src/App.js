@@ -18,6 +18,7 @@ import PrivateRouter from "./PrivateRouter";
 
 const App = () => {
   return (
+    //router
     <Router>
       <Switch>
         <Route path="/" component={HomeScreen} exact />
