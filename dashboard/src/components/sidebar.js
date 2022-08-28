@@ -7,12 +7,7 @@ const Sidebar = () => {
       <aside className="navbar-aside" id="offcanvas_aside">
         <div className="aside-top">
           <Link to="/" className="brand-wrap">
-            <img
-              src=""
-              style={{ height: "46" }}
-              className="logo"
-              alt="UniAccom dashboard template"
-            />
+           
           </Link>
           <div>
             <button className="btn btn-icon btn-aside-minimize">

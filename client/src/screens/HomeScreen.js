@@ -12,8 +12,10 @@ const HomeScreen = ({ match }) => {
   return (
     <div>
       <Header />
+      <h1> Browse Student Accomodation </h1>
+      <br></br>
+      <br></br>
       <ShopSection keyword={keyword} pagenumber={pagenumber} />
-      
       <ContactInfo />
       
     </div>

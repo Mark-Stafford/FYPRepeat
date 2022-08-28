@@ -29,31 +29,31 @@ const ShippingScreen = ({ history }) => {
           className="Login col-md-8 col-lg-4 col-11"
           onSubmit={submitHandler}
         >
-          <h6>DELIVERY ADDRESS</h6>
+          <h6>Contact Information</h6>
           <input
             type="text"
-            placeholder="Enter address"
+            placeholder="Enter Email"
             value={address}
             required
             onChange={(e) => setAddress(e.target.value)}
           />
           <input
             type="text"
-            placeholder="Enter city"
+            placeholder="Enter First Name"
             value={city}
             required
             onChange={(e) => setCity(e.target.value)}
           />
           <input
             type="text"
-            placeholder="Enter postal code"
+            placeholder="Enter Surname"
             value={postalCode}
             required
             onChange={(e) => setPostalCode(e.target.value)}
           />
           <input
             type="text"
-            placeholder="Enter country"
+            placeholder="Enter Contact Number"
             value={country}
             required
             onChange={(e) => setCountry(e.target.value)}
