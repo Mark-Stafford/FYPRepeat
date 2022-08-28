@@ -404,6 +404,10 @@ textarea:focus {
 .author-card {
   position: relative;
 }
+
+p.description{
+  font-size: 25px;
+}
 .author-card-cover {
   height: 100px;
   width: 100%;

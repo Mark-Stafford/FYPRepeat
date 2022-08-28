@@ -75,7 +75,7 @@ const SingleHouse = ({ history, match }) => {
                   <div className="house-info">
                     <div className="house-name">{house.name}</div>
                   </div>
-                  <p>{house.description}</p>
+                  <p class ="description">{house.description}</p>
 
                   <div className="house-count col-lg-7 ">
                     <div className="flex-box d-flex justify-content-between align-items-center">
